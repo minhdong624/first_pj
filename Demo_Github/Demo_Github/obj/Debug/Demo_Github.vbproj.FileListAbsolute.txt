@@ -1,1 +1,10 @@
 E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\bin\Debug\Demo_Github.exe.config
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\bin\Debug\Demo_Github.exe
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\bin\Debug\Demo_Github.pdb
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\bin\Debug\Demo_Github.xml
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\obj\Debug\Demo_Github.Form1.resources
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\obj\Debug\Demo_Github.Resources.resources
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\obj\Debug\Demo_Github.vbproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\obj\Debug\Demo_Github.exe
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\obj\Debug\Demo_Github.xml
+E:\LUUDULIEUSINHVIEN\2001181057_Dong\first_pj\Demo_Github\Demo_Github\obj\Debug\Demo_Github.pdb
